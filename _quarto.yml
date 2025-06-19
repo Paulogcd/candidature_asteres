@@ -1,13 +1,14 @@
 project:
   type: website
+  output-dir: docs/
 
 website:
-  title: "Analyse_immobilière_Paris"
+  title: "Analyse immobilière Paris"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Sujet
+    title: false
 
 format:
   html:

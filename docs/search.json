@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Analyse immobilière Paris",
+    "section": "",
+    "text": "Ce site est dédié à la présentation du sujet 2 de l’étude d’Asterès.\nEn se basant sur le jeu de données fourni, il était demandé de répondre à la question suivante : Y-a-t-il une crise de l’immobilier à Paris ?\nRéponse :\nEn se basant sur les données fournies, nous pouvons formuler une analyse préliminaire sur l’existence d’une crise du logement à Paris. Par exemple, nous pouvons mettre en évidence une forte augmentation de l’indice du prix du logement (IPL) divisé par l’Indice des Prix à la Consommation (IPC) à Paris, qui s’es fortement détaché de l’IPL de la France prise dans sa totalité, divisé par l’IPC.\nLa division par l’IPC permet d’obtenir des valeurs relatives au panier standard de consommation. En ce sens, cette division permet d’annuler l’effet de l’inflation.\nLes données soumises à l’étude semblent donc indiquer qu’il existe une augmentation très importante des prix de l’immobilier. Cependant, il faudrait également étudier les déterminants de la demande et s’atacher plus longuement à la description des indicateurs démographiques et économiques de Paris (en comparaison au reste de la France) pour trancher sur la question.\n\n\n\nEvolution des IPL\n\n\nLes données utilisées sont disponibles ici, et le code utilisé pour la production de ce graphique est disponible ici."
+  }
+]
